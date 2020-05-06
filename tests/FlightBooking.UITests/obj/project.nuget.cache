@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pTLzNAHr7tVeH3mmvs3s78GYGI6Fc17D9poYwUEfjd5SnlFGsZueoEhLEGkQ3qsbtZfmDjwuRrXrTuOcY6vSVQ==",
+  "success": true,
+  "projectFilePath": "E:\\Development\\Elasticsearch\\FlightBooking\\FlightBooking.App\\tests\\FlightBooking.UITests\\FlightBooking.UITests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\basha\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\basha\\.nuget\\packages\\nunit3testadapter\\3.13.0\\nunit3testadapter.3.13.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.uitest\\3.0.3\\xamarin.uitest.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
