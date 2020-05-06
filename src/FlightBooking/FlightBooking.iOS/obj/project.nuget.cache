@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cGjouIT7Z8v43ty0JCYxPE+kqDFcI9b1A+1PvRtdrHjKbAFzwUiAYD0a7c8S5AH+Uwlj5MO34Plz9OIgijYsJA==",
+  "success": true,
+  "projectFilePath": "E:\\Development\\Elasticsearch\\FlightBooking\\FlightBooking.App\\src\\FlightBooking\\FlightBooking.iOS\\FlightBooking.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\basha\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}
